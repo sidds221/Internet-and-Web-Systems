@@ -6,7 +6,7 @@
                Aashish Radhakrishnan
                Siddharth Sharma
 
-**Aim of our project** : The main aim of our project is to create a dynamic application which upon taking the reservoir data from the client will evaluate it using predictive analysis with the amount of water left in the reservoir. 
+**Aim of our project** : The main aim of our project is to create a dynamic application which upon taking the resorvior data from the client will evaluate it using predictive analysis with the amount of water left in the reservior.
 
 **The blueprint of our project** : 
 The plan here is to create a web application such that the authorized client is able to login. The client feeds the data into the model.
